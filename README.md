@@ -14,6 +14,5 @@
         Unstable:       vala, rust, python
         Bleeding edge:  c, c++, pascal
     See https://www.linkedin.com/in/brunomartinscorrea/ for more details.
->sudo systemctl enable bruno.service
-  
+>  
 ```
